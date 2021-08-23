@@ -1,0 +1,25 @@
+.main {
+    margin-top: 3rem;
+}
+
+.arrow-section {
+    padding-left: 1rem;
+}
+
+.arrow-section span {
+    cursor: pointer;
+}
+
+.account-section {
+    padding-left: 1rem; 
+}
+
+.img-section {
+    height: 92vh;
+    text-align: center;
+    background: #F5F5F6; 
+}
+
+.img-section div {
+    margin-top: 3rem;
+}
