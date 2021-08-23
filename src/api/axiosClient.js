@@ -11,7 +11,7 @@ axiosClient.defaults.headers = constants.headers;
 axiosClient.defaults.withCredentials = false;
 
 export function getRequest(URL) {
-  return axiosClient.get(`/${URL}`).then(response => response);
+  return axiosClient.get(`${URL}`).then(response => response);
 }
 
 export function postRequest(URL, payload) {

@@ -1,0 +1,25 @@
+
+.main {
+    padding-left: 5rem; 
+}
+.heading-bold {
+    font-weight: bold;
+}
+
+.img-logo {
+    width: 75px;
+}
+
+.org-name{
+    margin: 0 .5rem;
+    font-weight: bold; 
+}
+
+.org-members {
+    color: grey;
+    margin: 0 0.5rem; 
+}
+
+.create-org{
+    margin-top: 1.5rem;
+}

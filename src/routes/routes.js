@@ -16,6 +16,11 @@ const routes = [
     component: lazy(() => import('pages/organization/AccountScreen')),
     exact: true,
   },
+  {
+    path: 'join-ogranization',
+    component: lazy(() => import('pages/organization/JoinOrganizationScreen')),
+    exact: true,
+  },
 ];
 
 export default routes;

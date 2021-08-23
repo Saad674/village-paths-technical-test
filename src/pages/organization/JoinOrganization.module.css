@@ -1,0 +1,22 @@
+.arrow-section {
+    margin-top: 3rem;
+    padding-left: 1rem; 
+}
+
+.arrow-section span {
+    cursor: pointer;
+}
+
+.org-section {
+    margin-top: 3rem;
+}
+
+.img-section {
+    height: 95vh;
+    text-align: center;
+    background: #f5f5f6; 
+}
+
+.img-section div {
+    margin-top: 3rem;
+}
