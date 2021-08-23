@@ -9,7 +9,7 @@ import { useSelector } from 'react-redux'
 import './App.scss';
 import ProtectedRoutes from 'routes/ProtectedRoutes';
 
-const LoginPage = lazy(() => import('features/OnBoarding/LoginPage'));
+const LoginPage = lazy(() => import('components/features/OnBoarding/LoginPage'));
 
 
 

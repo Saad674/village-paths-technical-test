@@ -1,6 +1,6 @@
 import {all, call, put, takeLatest} from 'redux-saga/effects'
 import { login, loginSuccess, loginFailure } from './authenticationSlice';
-import { postRequest } from 'app/axiosClient'
+import { postRequest } from 'api/axiosClient'
 
 
 function* loginAPI(action) {
